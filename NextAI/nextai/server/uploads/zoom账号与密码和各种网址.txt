@@ -1,0 +1,51 @@
+Zoom账号: L+1023842@learning.laioffer.com
+Zoom密码: K8tZ1tE9eZ4fQ5n~
+Zoom网站：zoom.us
+课程会议链接：https://laioffer.zoom.us/j/88692395826
+Java基础课程教案文档：https://docs.google.com/document/d/1Vey4HADcFN6YeKuHKLqLmWImeG8LYHjWYuveqQJXW9U/edit#heading=h.f1hps0nzvv0w
+Twitch项目：https://docs.google.com/document/d/11H81y3PthUvmUHUJaRtTTP-nVLSQ0YaiPA_NEu12iKA/edit?usp=drive_link
+NextAI项目：https://docs.google.com/document/d/1WxCJuCRxj0ZTa29ixeeOeRvQxQoIsbnPCBfxpgHd7Ag/edit?usp=drive_link
+Piazza答疑网站：https://piazza.com/laioffer/spring2024/laiproject202408
+code：laiproject202408
+Twich项目 coding pad: https://docs.google.com/document/d/1RtKasCTbwfIZp_Ds45IMDuzHoqDQ7h_6nFVerursr2k/edit?usp=drive_link
+Next AI项目 coding pad ：https://docs.google.com/document/d/1DCWC2FjFQQGUcVUMu9PVNQBAn6Hw6wF8thWyEKsP098/edit?usp=drive_link
+Jetbrain edu邮箱license申请网址：https://www.jetbrains.com/community/education/#students
+
+aws用户ID：664418980887
+用户名：zjf2221
+密码：Zjf20040216no!
+邮箱：1539567908@qq.com
+登陆方式：根用户
+
+
+Google twitch   zjf2221
+Twitch 客户端ID：7g952h8jzkx2tt0wk7gop7endi4bop
+客户端密钥（client secret）：lvxqtc3hhgee5gntxtoi3tz85xe28m
+
+浏览器twitch  games_01
+client ID:8t2lv19yjs6eflopm17b4ssg2c1f48
+client secret:awpnyn5thkz2n0v72acbx15fw5f1ae
+
+前端学习网站：MDN、菜鸟
+Twitch:8.8~9.19
+Next AI:9.19~9.23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
