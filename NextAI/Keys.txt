@@ -1,4 +1,3 @@
-OpenAI Key：
-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
+OpenAI Key:top secret
 
-secret key:sk-4wHQNDckNc3TiU3GRLZE6ryQmocJYVnyBQ6yRv_bLRT3BlbkFJuIgxt515McHl5Z9dMdADxgN1XvzAOSHcw2mMncpn8A
+secret key:top secret
